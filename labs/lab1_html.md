@@ -93,3 +93,4 @@ NB! Выбор действия "View Page Source" выдаст исходное
 1. MDN HTML https://developer.mozilla.org/en-US/docs/Learn/HTML
 2. W3Schools HTML Tag Reference https://www.w3schools.com/tags/
 3. W3C Markup Validator http://validator.w3.org/
+4. HTML Reference https://htmlreference.io/
